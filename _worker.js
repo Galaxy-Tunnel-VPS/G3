@@ -10,7 +10,7 @@ var githubProxyURL = "https://raw.githubusercontent.com/gprox-galaxy/Gproxy-doma
 
 // DoH Providers (3 URLs with failover)
 var dohURLs = [
-    "https://2mms0p4zud.cloudflare-gateway.com/dns-query",
+    "https://1.1.1.1/dns-query",
     "https://dns.google/dns-query",
     "https://dns.quad9.net/dns-query"
 ];
