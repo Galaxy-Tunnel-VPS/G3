@@ -5,7 +5,7 @@ compatibility_flags = [ "nodejs_compat" ]
 
 # ✅ ဒီ line ကို ထည့်ပါ
 keep_vars = true
-workers.dev = true
+
 [vars]
 # UUID ကို ဒီမှာ မထည့်ထားဘူး (Dashboard မှာ ထည့်ထားမယ်)
 PROXYIP = "cdn-b100.xn--b6gac.eu.org"
